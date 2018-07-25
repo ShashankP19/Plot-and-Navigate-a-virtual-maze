@@ -2,15 +2,15 @@
 
 ## Plot and Navigate a Virtual Maze
 
-##### Shashank P
-##### December 2nd, 2017
+##### Author: Shashank P
+##### Date: December 2nd, 2017
 
-#### Requirements
+### Requirements
 
 - Python 2.7.X
 - Numpy
 
-#### Contents of the repository:
+### Contents of the repository:
 
 - robot.py : This is the main code for the project. Uses dynamic programming and depth first search.
 

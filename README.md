@@ -1,18 +1,18 @@
-Machine Learning Engineer Nanodegree
+# Udacity Machine Learning Engineer Nanodegree
 
-Capstone Project
+## Capstone Project
 
-Shashank P
-December 2nd, 2017
+### Shashank P
+### December 2nd, 2017
 
-Plot and Navigate a Virtual Maze
+## Plot and Navigate a Virtual Maze
 
-Requirements
+#### Requirements
 
 - Python 2.7.X
 - Numpy
 
-The file contains:
+#### The file contains:
 
 1) robot.py : This is the main code for the project. Uses dynamic programming and depth first search.
 

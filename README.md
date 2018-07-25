@@ -7,7 +7,7 @@
 
 ### Requirements
 
-- Python 2.7.X
+- Python 2.7.x
 - Numpy
 
 ### Contents of the repository:
